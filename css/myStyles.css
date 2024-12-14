@@ -1,0 +1,30 @@
+.scratchBG{
+    background-image: url(../assets/img/quilting_background.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.rightSide {
+    margin-left: 945px;
+    margin-top: 5px;
+    width: 300px;
+    text-align: center;
+}
+.txtBox {
+    display: table; /* keep the background color wrapped tight */
+    padding:5px; background-color: slategray;
+}
+.sidetxt{
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+}
+.common{
+    font-family: monospace;
+    font-size: 20px;
+    color: #190B48;
+}
+.main{
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 600px;
+}
